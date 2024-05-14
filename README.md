@@ -5,6 +5,9 @@
 </h1>
 
 <h3 align="center">A Passionate React Developer</h3>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+</p>
 
 <br/>
 
