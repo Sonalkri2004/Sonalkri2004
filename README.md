@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React**
+ 🔭 I’m currently working on **React ,Next,Firebase,MongoDb**
  
- 🌱 I’m currently learning **Blockchain, Etherium, AWS**
+ 🌱 I’m currently learning **Machine Learning,Python,Flask**
 
 💬 Ask me about **DSA , Node.js, React, MongoDB,... or anything [here](https://github.com/Sonalkri2004/Sonalkri2004/issues)**
 
