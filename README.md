@@ -4,11 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sonal+Kumari!;" alt="Sonalkumari" />
 </h1>
 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+# 💫 <span style="color: #18bd9c;">Welcome to the code-filled cosmos I've crafted!:</span>
 
-</p>
+![](https://c4coderandcreator.github.io/gif_set/CODERANDCREATORGIF.gif)
 
 <h3 align="center">A Passionate React Developer</h3>
 <p align="center">
