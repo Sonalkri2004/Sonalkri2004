@@ -95,8 +95,6 @@
     
 [![Sonalkri2004's GitHub | Stats](https://stats.quine.sh/Sonalkri2004/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonalkri2004)
 
-[![Sonalkri2004's GitHub | Languages Over Time](https://stats.quine.sh/Sonalkri2004/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonalkri2004)
-
 [![Sonalkri2004's GitHub | Topics Over Time](https://stats.quine.sh/Sonalkri2004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonalkri2004)
 
 
