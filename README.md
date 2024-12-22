@@ -47,7 +47,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,nextjs,mysql" /><br>
       <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalkri2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <a href="https://gitroll.io/profile/u6NhIgZeVJ2NMuTEmVDCDIt6bhYH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6NhIgZeVJ2NMuTEmVDCDIt6bhYH3?theme=tokyoNight" alt="GitRoll Profile Badge" width="500"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalkri2004&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="400"/>  
 </div>
 </div>
 
