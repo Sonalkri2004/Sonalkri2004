@@ -17,7 +17,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React ,Next,Firebase,MongoDb**
+ 🔭 I’m currently working on **ReactJs ,Next,Firebase,MongoDb**
  
  🌱 I’m currently learning **Machine Learning,Python,Flask**
 
